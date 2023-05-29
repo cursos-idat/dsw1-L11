@@ -21,7 +21,7 @@ Content-Type: text/xml
    <soapenv:Header/>
    <soapenv:Body>
       <gs:getCountryRequest>
-         <gs:name>Spain</gs:name>
+         <gs:name>Peru</gs:name>
       </gs:getCountryRequest>
    </soapenv:Body>
 </soapenv:Envelope>
