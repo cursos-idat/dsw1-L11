@@ -8,3 +8,27 @@ Content-Type: application/x-www-form-urlencoded
 
 name=Mateo
 &email=otroalumno@idat.edu.pe
+###
+
+GET http://localhost:8080/demo/ver/2
+
+###
+
+PUT http://localhost:8080/demo/edit
+Content-Type: application/x-www-form-urlencoded
+
+id=2
+&name=Mateo IDAT
+&email=correoidatdemateo@idat.edu.pe
+
+###
+
+DELETE http://localhost:8080/demo/del
+Content-Type: application/x-www-form-urlencoded
+
+id=1
+
+###
+
+GET http://localhost:8080/demo/get/report
+
