@@ -83,10 +83,14 @@
     - Hacer pruebas: /saludo?name=Idat
 - Partica (+5 en EC2 participacion)
   - Desplegar en render la implementación de la guia https://spring.io/guides/gs/accessing-data-mysql/ pero para Postrge
-  - Referencia: https://github.com/texai/render-rest-saludo-L11
+  - Referencia: Aplicacion desplegable en render: https://github.com/texai/render-rest-saludo-L11
+  - Referencia: Aplicacion desplegable en render (con PG BD) https://github.com/texai/render-rest-saludo/tree/pg
   - Entregable: URL .onrender.com y URL del Repo
+  - Tests:
+    - GET url.onrender.com/saludo
+    - GET url.onrender.com/saludo?name=Peru
     - GET url.onrender.com/demo/all
-    - POST url.onrender.com/demo/add   
+    - POST url.onrender.com/demo/add
 
 - StackOverflow survey
 - GitHub Code Spaces
