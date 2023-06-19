@@ -63,6 +63,9 @@
 
 ## Semana 5
 - Guia Rest: https://spring.io/guides/gs/rest-service/
+- Ejecución de aplicación:
+  - ´mvnw clean package´
+  - ´java -jar target/*.jar´  
 - Docker, Dockerfile, docker-compose
 - render.com
   - simple rest
