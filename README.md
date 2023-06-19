@@ -81,9 +81,9 @@
     - mvnw clean package
     - Crear servicio web en render, vinculando su repositorio
     - Hacer pruebas: /saludo?name=Idat
-- Partica (+5 participacion)
+- Partica (+5 en EC2 participacion)
   - Desplegar en render la implementación de la guia https://spring.io/guides/gs/accessing-data-mysql/ pero para Postrge
-  - Referencia: 
+  - Referencia: https://github.com/texai/render-rest-saludo-L11
   - Entregable: URL .onrender.com y URL del Repo
     - GET url.onrender.com/demo/all
     - POST url.onrender.com/demo/add   
