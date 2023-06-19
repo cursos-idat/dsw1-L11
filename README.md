@@ -84,7 +84,7 @@
 - Partica (+5 en EC2 participacion)
   - Desplegar en render la implementación de la guia https://spring.io/guides/gs/accessing-data-mysql/ pero para Postrge
   - Referencia: Aplicacion desplegable en render: https://github.com/texai/render-rest-saludo-L11
-  - Referencia: Aplicacion desplegable en render (con PG BD) https://github.com/texai/render-rest-saludo/tree/pg
+  - Referencia: Aplicacion desplegable en render (con PG BD) https://github.com/texai/render-rest-saludo
   - Entregable: URL .onrender.com y URL del Repo
   - Tests:
     - GET url.onrender.com/saludo
