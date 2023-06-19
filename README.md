@@ -72,7 +72,7 @@
   - pg db
 - Practica:
   - Ejecutar la [guia Rest](https://spring.io/guides/gs/rest-service/) y desplegarla en [render](https://render.com) 
-  - Referencia: https://github.com/texai/render-rest-saludo
+  - Referencia: [Repo Desplegable en Render](https://github.com/texai/render-rest-saludo-L11)
   - Pasos:
     - Crear el proyecyo java https://start.spring.io/
     - Implementarlo segun la guía (CRTL-C CTRL-V de 2 archivos)
