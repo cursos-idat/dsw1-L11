@@ -70,6 +70,17 @@
 - render.com
   - simple rest
   - pg db
+- Practica:
+  - Ejecutar la [guia Rest](https://spring.io/guides/gs/rest-service/) y desplegarla en [render](https://render.com) 
+  - Referencia: https://github.com/texai/render-rest-saludo
+  - Pasos:
+    - Crear el proyecyo java https://start.spring.io/
+    - Implementarlo segun la guía (CRTL-C CTRL-V de 2 archivos)
+    - Dejar de ignorar el directorio target
+    - Crear archivo Dockerfile (segun referencia)
+    - mvnw clean package
+    - Crear servicio web en render, vinculando su repositorio
+    - Hacer pruebas: /saludo?name=Idat
 - StackOverflow survey
 - GitHub Code Spaces
    
