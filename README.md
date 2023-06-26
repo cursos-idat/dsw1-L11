@@ -120,7 +120,7 @@
     - Abrir el archivo .gitignore y borrar la linea que pone `target/`
     - Abrir el terminal y ejecutar el comando: `chmod +x mvnw`
     - Luego el comando: `./mvnw clean package`
-    - [Source Control] Realizar el commit y luego push (Sync)
+    - [Source Control] Realizar el commit (Botón: Commit) y luego push (Botón: Sync Changes)
     - Crear una app web render
     - Vincular al repositorio
     - Probar ...onrender.com
