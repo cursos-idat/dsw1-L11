@@ -91,10 +91,20 @@
     - GET url.onrender.com/saludo?name=Peru
     - GET url.onrender.com/demo/all
     - POST url.onrender.com/demo/add
-
-- StackOverflow survey
-- GitHub Code Spaces
    
-## Backlog
+## Semana 6
 
-- .
+- GitHub CodeSpaces
+  - Entorno de desarrollo cloud, nos evita configurar un entorno de desarrollo local, con posibles conflictos entre diferentes versiones de Java
+  - 60 horas gratis al mes
+  - Detalles: https://github.com/features/codespaces
+  - Reporte de uso de Github CodeSpaces: https://github.com/settings/billing
+  - Alternativa a Github Codespaces: https://gitpod.io/
+  
+
+
+
+
+
+
+
