@@ -135,6 +135,10 @@
     - Realizar commit y push (Sync)
     - Instalar en el VS code de CodeSpaces la extensión: Rest Client
     - Escribir archivo reqs.http
+      - GET ...onrender.com/                    -> codigo y nombre
+      - GET ...onrender.com/api/usuario/all     -> []
+      - POST ...onrender.com/api/usuario/add {} -> "Saved!"
+      - GET ...onrender.com/api/usuario/all     -> [{id:1...}]
     - Probar ...onrender.com/
   
 
