@@ -124,6 +124,18 @@
     - Crear una app web render
     - Vincular al repositorio
     - Probar ...onrender.com
+  - Práctica CodeSpaces + Render + PostgreSQL
+    - Referencia: https://github.com/texai/idat-dsw1-accessing-data-mysql [*]
+    - Agregar dependencias al archivo pom.xml (JPA, postgresql) [*]
+    - Añadir un nuevo controlador ApiController.java [*]
+    - Añadir clases: User.java y UserRepository.java [*]
+    - En Render.com crear la BD PostgreSQL
+    - Configurar archivo application.properties con los datos de conexion de la BD PostgreSQL
+    - Luego ejecutar el comando: `./mvnw clean package`
+    - Realizar commit y push (Sync)
+    - Instalar en el VS code de CodeSpaces la extensión: Rest Client
+    - Escribir archivo reqs.http
+    - Probar ...onrender.com/
   
 
 
