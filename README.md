@@ -115,10 +115,15 @@
     -  Abrir el archivo Application.java
     -  Click en Run and Debug
     -  Hacer público el puerto (pestaña al costao de Terminal)
-  -  Práctica CodeSpaces + Render
+  - Práctica CodeSpaces + Render
     - Escribir un Dockerfile: https://github.com/texai/render-rest-saludo/blob/main/Dockerfile
     - Abrir el archivo .gitignore y borrar la linea que pone `target/`
-    - Abrir el terminal y ejecutar el comando: `chmod +x mvnw` 
+    - Abrir el terminal y ejecutar el comando: `chmod +x mvnw`
+    - Luego el comando: `./mvnw clean package`
+    - [Source Control] Realizar el commit y luego push (Sync)
+    - Crear una app web render
+    - Vincular al repositorio
+    - Probar ...onrender.com
   
 
 
