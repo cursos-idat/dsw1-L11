@@ -100,6 +100,14 @@
   - Detalles: https://github.com/features/codespaces
   - Reporte de uso de Github CodeSpaces: https://github.com/settings/billing
   - Alternativa a Github Codespaces: https://gitpod.io/
+  - Práctica CodeSpaces:
+    - Crear un nuevo repo en Github (con un archivo README) https://github.com/new
+    - Abrir el repositorio con CodeSpaces
+      - Clic al botón verde "Code"
+      - Clic a la pestaña CodeSpaces
+      - Clic al botón verde "Open in CodeSpace"
+    - Otra manera de abrir nuestro repo en CodeSpaces: https://github.com/codespaces/new
+  -  
   
 
 
