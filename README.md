@@ -110,7 +110,7 @@
       - Otra manera de abrir nuestro repo en CodeSpaces: https://github.com/codespaces/new
     -  Crear un nuevo proyecto Java con la dependencia Spring Web: https://start.spring.io/
     -  Pasar los archivos generados hacia CodeSpaces
-    -  Crear un nuevo Controller.java según ejemplo
+    -  Crear un nuevo Controller.java según ejemplo: https://github.com/texai/hola-codespaces-L11/blob/main/src/main/java/com/example/holacodespacesL11/Controller.java
     -  Instalar las extensiones: "Extension Pack for Java" y "Rest Client"
     -  Abrir el archivo Application.java
     -  Click en Run and Debug
