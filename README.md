@@ -141,6 +141,13 @@
       - GET ...onrender.com/api/usuario/all     -> [{id:1...}]
     - Probar ...onrender.com/
   
+## Semana 7
+
+  - EC2
+
+## Semana 8
+
+  - .
 
 
 
