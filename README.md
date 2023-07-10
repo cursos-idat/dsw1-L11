@@ -168,6 +168,9 @@
       - Eliminar "target/" del archivo .gitignore
       - Ejecutar el comando `chmod +x mvnw`
       - Ejecutar el comando `./mvnw clean package`
+      - Nos aseguramos que exista y esté versionado nuestro archivo `target/*.jar`
+      - Comiteamos todo, syncronizamos todo (commit & push)
+      - Desplegamos en render
 
 ## Semana 8
 
