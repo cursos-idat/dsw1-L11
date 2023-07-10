@@ -143,7 +143,31 @@
   
 ## Semana 7
 
-  - EC2
+  - Evaluación Contínua 2
+    - Crear un nuevo repositorio
+    - Abrir con CodeSpace
+    - Creamos un nuevo proyecto de Java: https://start.spring.io/
+      - Project: Maven
+      - Packaging: JAR
+      - Java version: 17
+      - Dependendencies:
+        - Spring Web
+        - Spring Data JPA
+        - PostgreSQL Driver
+    - Instalar Estos plugins:
+      - Extension Pack for Java
+      - Rest Client
+    - En Explorer > Java Projects > clic en "Import Projects"
+    - Crear los archivos, segun referencia: https://github.com/texai/idat-dsw1-accessing-data-mysql
+      - Curso.java
+      - CursoRepository.java
+      - MainController.java
+      - application.properties
+    - Para desplegar en render
+      - Crear archivo Dockerfile
+      - Eliminar "target/" del archivo .gitignore
+      - Ejecutar el comando `chmod +x mvnw`
+      - Ejecutar el comando `./mvnw clean package`
 
 ## Semana 8
 
