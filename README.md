@@ -179,9 +179,9 @@
     - Agregar una nueva dependencia a nuestro archivo pom.xml
     ```xml
     <dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-data-rest</artifactId>
-		</dependency>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter-data-rest</artifactId>
+    </dependency>
     ```
     
 
