@@ -174,8 +174,16 @@
 
 ## Semana 8
 
-  - .
-
+  - Rest Resource
+    - Eliminar los controladores
+    - Agregar una nueva dependencia a nuestro archivo pom.xml
+    ```xml
+    <dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-data-rest</artifactId>
+		</dependency>
+    ```
+    
 
 
 
